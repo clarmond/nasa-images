@@ -5,3 +5,5 @@ This app takes the most popular images from the [NASA Images](https://images.nas
 Clicking on an image card will open up the record on the NASA Images site.
 
 ![Preview](nasa-images-app-480.gif)
+
+View the [demo](https://www.csarmond.com/nasa-images/).
